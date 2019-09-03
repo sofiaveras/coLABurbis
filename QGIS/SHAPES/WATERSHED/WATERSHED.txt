@@ -1,0 +1,14 @@
+NIV_1	Nível 1
+NIV_2	Nível 2
+NIV_3	Nível 3
+NIV_4	Nível 4
+NIV_5	Nível 5
+NIV_6	Nível 6
+RIO1	Rio 1
+RIO2	Rio 2
+RIO3	Rio 3
+RIO4	Rio 4
+RIO5	Rio 5
+RIO6	Rio 6
+PERIM_KM	Perímetro (km)
+AREA_KM2	Área (km2)
