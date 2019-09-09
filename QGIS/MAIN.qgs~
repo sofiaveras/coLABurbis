@@ -19,65 +19,65 @@
   </projectCrs>
   <layer-tree-group>
     <customproperties/>
-    <layer-tree-group checked="Qt::Checked" name="PROJECT" expanded="1">
+    <layer-tree-group name="PROJECT" expanded="1" checked="Qt::Checked">
       <customproperties/>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="STREETS" source="./SHAPES/STREETS/STREETS.shp" expanded="1" id="STREETS_74de8bd3_35c9_4697_ad48_a728f4839813">
+      <layer-tree-layer source="./SHAPES/STREETS/STREETS.shp" providerKey="ogr" id="STREETS_74de8bd3_35c9_4697_ad48_a728f4839813" name="STREETS" expanded="1" checked="Qt::Checked">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-group checked="Qt::Checked" name="LOTS" expanded="1">
+      <layer-tree-group name="LOTS" expanded="1" checked="Qt::Checked">
         <customproperties/>
-        <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="RESIDENTIAL LOTS" source="./SHAPES/LOTS/RESIDENCIAL LOTS/RESIDENTIAL LOTS.shp" expanded="1" id="RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0">
+        <layer-tree-layer source="./SHAPES/LOTS/RESIDENCIAL LOTS/RESIDENTIAL LOTS.shp" providerKey="ogr" id="RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0" name="RESIDENTIAL LOTS" expanded="1" checked="Qt::Checked">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="MIXED USE LOTS" source="./SHAPES/LOTS/MIXED USE LOTS/MIXED USE LOTS.shp" expanded="1" id="MIXED_USE_LOTS_3f1f37c0_ba3b_4220_b565_b2af49427fcc">
+        <layer-tree-layer source="./SHAPES/LOTS/MIXED USE LOTS/MIXED USE LOTS.shp" providerKey="ogr" id="MIXED_USE_LOTS_3f1f37c0_ba3b_4220_b565_b2af49427fcc" name="MIXED USE LOTS" expanded="1" checked="Qt::Checked">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="AGRICULTURAL LOTS" source="./SHAPES/LOTS/AGRICULTURAL LOTS/AGRICULTURAL LOTS.shp" expanded="1" id="AGRICULTURAL_LOTS_a0058e79_981f_400e_a314_c6a739652fb9">
+        <layer-tree-layer source="./SHAPES/LOTS/AGRICULTURAL LOTS/AGRICULTURAL LOTS.shp" providerKey="ogr" id="AGRICULTURAL_LOTS_a0058e79_981f_400e_a314_c6a739652fb9" name="AGRICULTURAL LOTS" expanded="1" checked="Qt::Checked">
           <customproperties/>
         </layer-tree-layer>
       </layer-tree-group>
     </layer-tree-group>
-    <layer-tree-group checked="Qt::Checked" name="BASE" expanded="1">
+    <layer-tree-group name="BASE" expanded="0" checked="Qt::Checked">
       <customproperties/>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="RIVERS" source="./SHAPES/RIVERS/RIVERS.shp" expanded="1" id="RIVERS_afe73971_df46_4a18_b98b_7a4706b44ef9">
+      <layer-tree-layer source="./SHAPES/RIVERS/RIVERS.shp" providerKey="ogr" id="RIVERS_afe73971_df46_4a18_b98b_7a4706b44ef9" name="RIVERS" expanded="1" checked="Qt::Checked">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="TERRITORY" source="./SHAPES/TERRITORY/TERRITORY.shp" expanded="0" id="TERRITORY_7b6ed76b_fb24_4796_bcf0_7980daa8e8ca">
+      <layer-tree-layer source="./SHAPES/TERRITORY/TERRITORY.shp" providerKey="ogr" id="TERRITORY_7b6ed76b_fb24_4796_bcf0_7980daa8e8ca" name="TERRITORY" expanded="0" checked="Qt::Checked">
         <customproperties>
           <property key="expandedLegendNodes"/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="RAILWAY" source="./SHAPES/RAILWAY/RAILWAY.shp" expanded="1" id="RAILWAY_7289cd57_32a0_49b8_9f6b_bb2851aabd13">
+      <layer-tree-layer source="./SHAPES/RAILWAY/RAILWAY.shp" providerKey="ogr" id="RAILWAY_7289cd57_32a0_49b8_9f6b_bb2851aabd13" name="RAILWAY" expanded="1" checked="Qt::Checked">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="HIGHWAYS" source="./SHAPES/HIGHWAYS/HIGHWAYS.shp" expanded="0" id="HIGHWAYS_b35032d4_8186_47d7_9ad8_ed69e55769ad">
+      <layer-tree-layer source="./SHAPES/HIGHWAYS/HIGHWAYS.shp" providerKey="ogr" id="HIGHWAYS_b35032d4_8186_47d7_9ad8_ed69e55769ad" name="HIGHWAYS" expanded="0" checked="Qt::Checked">
         <customproperties>
           <property key="expandedLegendNodes"/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Checked" name="URBAN AREA" source="./SHAPES/URBAN AREA/URBAN AREA.shp" expanded="1" id="URBAN_AREA_443f5062_9c90_47e6_9e2b_2df41a9c9be1">
+      <layer-tree-layer source="./SHAPES/URBAN AREA/URBAN AREA.shp" providerKey="ogr" id="URBAN_AREA_443f5062_9c90_47e6_9e2b_2df41a9c9be1" name="URBAN AREA" expanded="1" checked="Qt::Checked">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Unchecked" name="URBAN SPOTS" source="./SHAPES/URBAN SPOTS/URBAN SPOTS.shp" expanded="1" id="URBAN_SPOTS_e7fa6674_22eb_421b_ad18_f08f4ddd8657">
+      <layer-tree-layer source="./SHAPES/URBAN SPOTS/URBAN SPOTS.shp" providerKey="ogr" id="URBAN_SPOTS_e7fa6674_22eb_421b_ad18_f08f4ddd8657" name="URBAN SPOTS" expanded="1" checked="Qt::Unchecked">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="wms" checked="Qt::Checked" name="OpenStreetMap" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=http://a.tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" expanded="0" id="OpenStreetMap_82c95d7d_5a4d_4aaa_832a_ad8f94632e06">
+      <layer-tree-layer source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=http://a.tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" providerKey="wms" id="OpenStreetMap_82c95d7d_5a4d_4aaa_832a_ad8f94632e06" name="OpenStreetMap" expanded="0" checked="Qt::Checked">
         <customproperties>
           <property key="expandedLegendNodes"/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="wms" checked="Qt::Checked" name="Google Satellite" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://mt1.google.com/vt/lyrs%3Ds%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&amp;zmax=20&amp;zmin=0" expanded="0" id="Google_Satellite_3a641d24_bff0_4066_a27c_da5719809a1a">
+      <layer-tree-layer source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://mt1.google.com/vt/lyrs%3Ds%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&amp;zmax=20&amp;zmin=0" providerKey="wms" id="Google_Satellite_3a641d24_bff0_4066_a27c_da5719809a1a" name="Google Satellite" expanded="0" checked="Qt::Checked">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Unchecked" name="COUNTIES" source="./SHAPES/COUNTIES/COUNTIES.shp" expanded="0" id="COUNTIES_34c168ff_8e4b_4c5a_8b49_0952c45a4270">
+      <layer-tree-layer source="./SHAPES/COUNTIES/COUNTIES.shp" providerKey="ogr" id="COUNTIES_34c168ff_8e4b_4c5a_8b49_0952c45a4270" name="COUNTIES" expanded="0" checked="Qt::Unchecked">
         <customproperties>
           <property key="expandedLegendNodes"/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Unchecked" name="FEDERAL STATES" source="./SHAPES/FEDERAL STATES/FEDERAL STATES.shp" expanded="1" id="FEDERAL_STATES_203f2d1a_4476_4cd7_acb1_da7d5519cbc9">
+      <layer-tree-layer source="./SHAPES/FEDERAL STATES/FEDERAL STATES.shp" providerKey="ogr" id="FEDERAL_STATES_203f2d1a_4476_4cd7_acb1_da7d5519cbc9" name="FEDERAL STATES" expanded="1" checked="Qt::Unchecked">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer providerKey="ogr" checked="Qt::Unchecked" name="WORLD" source="./SHAPES/WORLD/WORLD.shp" expanded="1" id="WORLD_bf9a13f7_5caf_4774_86f0_7ccc06b96da1">
+      <layer-tree-layer source="./SHAPES/WORLD/WORLD.shp" providerKey="ogr" id="WORLD_bf9a13f7_5caf_4774_86f0_7ccc06b96da1" name="WORLD" expanded="1" checked="Qt::Unchecked">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -99,31 +99,31 @@
       <item>RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings enabled="0" tolerance="15" unit="1" intersection-snapping="0" mode="2" type="1">
+  <snapping-settings unit="1" type="1" mode="2" tolerance="15" enabled="0" intersection-snapping="0">
     <individual-layer-settings>
-      <layer-setting enabled="0" tolerance="15" id="URBAN_SPOTS_e7fa6674_22eb_421b_ad18_f08f4ddd8657" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="RIVERS_afe73971_df46_4a18_b98b_7a4706b44ef9" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="HIGHWAYS_b35032d4_8186_47d7_9ad8_ed69e55769ad" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="RAILWAY_7289cd57_32a0_49b8_9f6b_bb2851aabd13" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="TERRITORY_7b6ed76b_fb24_4796_bcf0_7980daa8e8ca" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="URBAN_AREA_443f5062_9c90_47e6_9e2b_2df41a9c9be1" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="COUNTIES_34c168ff_8e4b_4c5a_8b49_0952c45a4270" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="WORLD_bf9a13f7_5caf_4774_86f0_7ccc06b96da1" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="STREETS_74de8bd3_35c9_4697_ad48_a728f4839813" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="AGRICULTURAL_LOTS_a0058e79_981f_400e_a314_c6a739652fb9" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="MIXED_USE_LOTS_3f1f37c0_ba3b_4220_b565_b2af49427fcc" type="1" units="1"/>
-      <layer-setting enabled="0" tolerance="15" id="FEDERAL_STATES_203f2d1a_4476_4cd7_acb1_da7d5519cbc9" type="1" units="1"/>
+      <layer-setting type="1" id="URBAN_SPOTS_e7fa6674_22eb_421b_ad18_f08f4ddd8657" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="URBAN_AREA_443f5062_9c90_47e6_9e2b_2df41a9c9be1" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="FEDERAL_STATES_203f2d1a_4476_4cd7_acb1_da7d5519cbc9" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="HIGHWAYS_b35032d4_8186_47d7_9ad8_ed69e55769ad" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="WORLD_bf9a13f7_5caf_4774_86f0_7ccc06b96da1" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="RAILWAY_7289cd57_32a0_49b8_9f6b_bb2851aabd13" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="TERRITORY_7b6ed76b_fb24_4796_bcf0_7980daa8e8ca" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="RIVERS_afe73971_df46_4a18_b98b_7a4706b44ef9" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="AGRICULTURAL_LOTS_a0058e79_981f_400e_a314_c6a739652fb9" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="MIXED_USE_LOTS_3f1f37c0_ba3b_4220_b565_b2af49427fcc" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="COUNTIES_34c168ff_8e4b_4c5a_8b49_0952c45a4270" tolerance="15" units="1" enabled="0"/>
+      <layer-setting type="1" id="STREETS_74de8bd3_35c9_4697_ad48_a728f4839813" tolerance="15" units="1" enabled="0"/>
     </individual-layer-settings>
   </snapping-settings>
   <relations/>
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>meters</units>
     <extent>
-      <xmin>-5501392.76250840350985527</xmin>
-      <ymin>-1862315.96239744080230594</ymin>
-      <xmax>-5496851.24428218230605125</xmax>
-      <ymax>-1856973.87134552141651511</ymax>
+      <xmin>-5500568.31317264400422573</xmin>
+      <ymin>-1861894.12451141839846969</ymin>
+      <xmax>-5497226.73656422086060047</xmax>
+      <ymax>-1857963.49919849913567305</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -142,84 +142,84 @@
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendgroup open="true" checked="Qt::Checked" name="PROJECT">
-      <legendlayer open="true" checked="Qt::Checked" name="STREETS" drawingOrder="-1" showFeatureCount="0">
+    <legendgroup name="PROJECT" open="true" checked="Qt::Checked">
+      <legendlayer name="STREETS" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Checked">
         <filegroup hidden="false" open="true">
-          <legendlayerfile visible="1" isInOverview="0" layerid="STREETS_74de8bd3_35c9_4697_ad48_a728f4839813"/>
+          <legendlayerfile visible="1" layerid="STREETS_74de8bd3_35c9_4697_ad48_a728f4839813" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendgroup open="true" checked="Qt::Checked" name="LOTS">
-        <legendlayer open="true" checked="Qt::Checked" name="RESIDENTIAL LOTS" drawingOrder="-1" showFeatureCount="0">
+      <legendgroup name="LOTS" open="true" checked="Qt::Checked">
+        <legendlayer name="RESIDENTIAL LOTS" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Checked">
           <filegroup hidden="false" open="true">
-            <legendlayerfile visible="1" isInOverview="0" layerid="RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0"/>
+            <legendlayerfile visible="1" layerid="RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0" isInOverview="0"/>
           </filegroup>
         </legendlayer>
-        <legendlayer open="true" checked="Qt::Checked" name="MIXED USE LOTS" drawingOrder="-1" showFeatureCount="0">
+        <legendlayer name="MIXED USE LOTS" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Checked">
           <filegroup hidden="false" open="true">
-            <legendlayerfile visible="1" isInOverview="0" layerid="MIXED_USE_LOTS_3f1f37c0_ba3b_4220_b565_b2af49427fcc"/>
+            <legendlayerfile visible="1" layerid="MIXED_USE_LOTS_3f1f37c0_ba3b_4220_b565_b2af49427fcc" isInOverview="0"/>
           </filegroup>
         </legendlayer>
-        <legendlayer open="true" checked="Qt::Checked" name="AGRICULTURAL LOTS" drawingOrder="-1" showFeatureCount="0">
+        <legendlayer name="AGRICULTURAL LOTS" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Checked">
           <filegroup hidden="false" open="true">
-            <legendlayerfile visible="1" isInOverview="0" layerid="AGRICULTURAL_LOTS_a0058e79_981f_400e_a314_c6a739652fb9"/>
+            <legendlayerfile visible="1" layerid="AGRICULTURAL_LOTS_a0058e79_981f_400e_a314_c6a739652fb9" isInOverview="0"/>
           </filegroup>
         </legendlayer>
       </legendgroup>
     </legendgroup>
-    <legendgroup open="true" checked="Qt::Checked" name="BASE">
-      <legendlayer open="true" checked="Qt::Checked" name="RIVERS" drawingOrder="-1" showFeatureCount="0">
+    <legendgroup name="BASE" open="false" checked="Qt::Checked">
+      <legendlayer name="RIVERS" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Checked">
         <filegroup hidden="false" open="true">
-          <legendlayerfile visible="1" isInOverview="0" layerid="RIVERS_afe73971_df46_4a18_b98b_7a4706b44ef9"/>
+          <legendlayerfile visible="1" layerid="RIVERS_afe73971_df46_4a18_b98b_7a4706b44ef9" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="false" checked="Qt::Checked" name="TERRITORY" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="TERRITORY" showFeatureCount="0" drawingOrder="-1" open="false" checked="Qt::Checked">
         <filegroup hidden="false" open="false">
-          <legendlayerfile visible="1" isInOverview="0" layerid="TERRITORY_7b6ed76b_fb24_4796_bcf0_7980daa8e8ca"/>
+          <legendlayerfile visible="1" layerid="TERRITORY_7b6ed76b_fb24_4796_bcf0_7980daa8e8ca" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="true" checked="Qt::Checked" name="RAILWAY" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="RAILWAY" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Checked">
         <filegroup hidden="false" open="true">
-          <legendlayerfile visible="1" isInOverview="0" layerid="RAILWAY_7289cd57_32a0_49b8_9f6b_bb2851aabd13"/>
+          <legendlayerfile visible="1" layerid="RAILWAY_7289cd57_32a0_49b8_9f6b_bb2851aabd13" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="false" checked="Qt::Checked" name="HIGHWAYS" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="HIGHWAYS" showFeatureCount="0" drawingOrder="-1" open="false" checked="Qt::Checked">
         <filegroup hidden="false" open="false">
-          <legendlayerfile visible="1" isInOverview="0" layerid="HIGHWAYS_b35032d4_8186_47d7_9ad8_ed69e55769ad"/>
+          <legendlayerfile visible="1" layerid="HIGHWAYS_b35032d4_8186_47d7_9ad8_ed69e55769ad" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="true" checked="Qt::Checked" name="URBAN AREA" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="URBAN AREA" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Checked">
         <filegroup hidden="false" open="true">
-          <legendlayerfile visible="1" isInOverview="0" layerid="URBAN_AREA_443f5062_9c90_47e6_9e2b_2df41a9c9be1"/>
+          <legendlayerfile visible="1" layerid="URBAN_AREA_443f5062_9c90_47e6_9e2b_2df41a9c9be1" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="true" checked="Qt::Unchecked" name="URBAN SPOTS" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="URBAN SPOTS" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Unchecked">
         <filegroup hidden="false" open="true">
-          <legendlayerfile visible="0" isInOverview="0" layerid="URBAN_SPOTS_e7fa6674_22eb_421b_ad18_f08f4ddd8657"/>
+          <legendlayerfile visible="0" layerid="URBAN_SPOTS_e7fa6674_22eb_421b_ad18_f08f4ddd8657" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="false" checked="Qt::Checked" name="OpenStreetMap" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="OpenStreetMap" showFeatureCount="0" drawingOrder="-1" open="false" checked="Qt::Checked">
         <filegroup hidden="false" open="false">
-          <legendlayerfile visible="1" isInOverview="0" layerid="OpenStreetMap_82c95d7d_5a4d_4aaa_832a_ad8f94632e06"/>
+          <legendlayerfile visible="1" layerid="OpenStreetMap_82c95d7d_5a4d_4aaa_832a_ad8f94632e06" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="false" checked="Qt::Checked" name="Google Satellite" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="Google Satellite" showFeatureCount="0" drawingOrder="-1" open="false" checked="Qt::Checked">
         <filegroup hidden="false" open="false">
-          <legendlayerfile visible="1" isInOverview="0" layerid="Google_Satellite_3a641d24_bff0_4066_a27c_da5719809a1a"/>
+          <legendlayerfile visible="1" layerid="Google_Satellite_3a641d24_bff0_4066_a27c_da5719809a1a" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="false" checked="Qt::Unchecked" name="COUNTIES" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="COUNTIES" showFeatureCount="0" drawingOrder="-1" open="false" checked="Qt::Unchecked">
         <filegroup hidden="false" open="false">
-          <legendlayerfile visible="0" isInOverview="0" layerid="COUNTIES_34c168ff_8e4b_4c5a_8b49_0952c45a4270"/>
+          <legendlayerfile visible="0" layerid="COUNTIES_34c168ff_8e4b_4c5a_8b49_0952c45a4270" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="true" checked="Qt::Unchecked" name="FEDERAL STATES" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="FEDERAL STATES" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Unchecked">
         <filegroup hidden="false" open="true">
-          <legendlayerfile visible="0" isInOverview="0" layerid="FEDERAL_STATES_203f2d1a_4476_4cd7_acb1_da7d5519cbc9"/>
+          <legendlayerfile visible="0" layerid="FEDERAL_STATES_203f2d1a_4476_4cd7_acb1_da7d5519cbc9" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer open="true" checked="Qt::Unchecked" name="WORLD" drawingOrder="-1" showFeatureCount="0">
+      <legendlayer name="WORLD" showFeatureCount="0" drawingOrder="-1" open="true" checked="Qt::Unchecked">
         <filegroup hidden="false" open="true">
-          <legendlayerfile visible="0" isInOverview="0" layerid="WORLD_bf9a13f7_5caf_4774_86f0_7ccc06b96da1"/>
+          <legendlayerfile visible="0" layerid="WORLD_bf9a13f7_5caf_4774_86f0_7ccc06b96da1" isInOverview="0"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
@@ -227,7 +227,7 @@
   <mapViewDocks/>
   <mapViewDocks3D/>
   <projectlayers>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-5499200.98512754216790199</xmin>
         <ymin>-1859919.94835817371495068</ymin>
@@ -271,7 +271,7 @@
             <description></description>
             <projectionacronym></projectionacronym>
             <ellipsoidacronym></ellipsoidacronym>
-            <geographicflag>true</geographicflag>
+            <geographicflag>false</geographicflag>
           </spatialrefsys>
         </crs>
         <extent/>
@@ -291,10 +291,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="144,190,44,255"/>
               <prop k="joinstyle" v="bevel"/>
@@ -308,9 +308,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -320,12 +320,14 @@
         <sizescale/>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="&quot;id&quot;"/>
+        <property key="dualview/previewExpressions">
+          <value>"id"</value>
+        </property>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -362,24 +364,24 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="id" index="0"/>
-        <alias name="" field="OWNER" index="1"/>
-        <alias name="" field="WIDTH" index="2"/>
-        <alias name="" field="&#xa;DEPTH" index="3"/>
+        <alias field="id" index="0" name=""/>
+        <alias field="OWNER" index="1" name=""/>
+        <alias field="WIDTH" index="2" name=""/>
+        <alias field="&#xa;DEPTH" index="3" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="id"/>
-        <default applyOnUpdate="0" expression="" field="OWNER"/>
-        <default applyOnUpdate="0" expression="" field="WIDTH"/>
-        <default applyOnUpdate="0" expression="" field="&#xa;DEPTH"/>
+        <default field="id" applyOnUpdate="0" expression=""/>
+        <default field="OWNER" applyOnUpdate="0" expression=""/>
+        <default field="WIDTH" applyOnUpdate="0" expression=""/>
+        <default field="&#xa;DEPTH" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="id" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="OWNER" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="WIDTH" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="&#xa;DEPTH" notnull_strength="0" exp_strength="0"/>
+        <constraint field="id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="OWNER" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="WIDTH" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="&#xa;DEPTH" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="id" exp="" desc=""/>
@@ -391,12 +393,12 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="&quot;area_m&quot;" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;area_m&quot;" sortOrder="0">
         <columns>
-          <column width="-1" hidden="0" name="id" type="field"/>
-          <column width="-1" hidden="1" type="actions"/>
-          <column width="-1" hidden="0" name="area_m" type="field"/>
-          <column width="-1" hidden="0" name="area_ha" type="field"/>
+          <column type="field" hidden="0" name="id" width="-1"/>
+          <column type="actions" hidden="1" width="-1"/>
+          <column type="field" hidden="0" name="area_m" width="-1"/>
+          <column type="field" hidden="0" name="area_ha" width="-1"/>
         </columns>
       </attributetableconfig>
       <conditionalstyles>
@@ -416,7 +418,7 @@
       <previewExpression>"id"</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-53.24832380499998408</xmin>
         <ymin>-19.48344253199996956</ymin>
@@ -480,10 +482,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="255,158,23,255"/>
               <prop k="joinstyle" v="bevel"/>
@@ -497,9 +499,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -512,7 +514,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -591,42 +593,42 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Id" index="0"/>
-        <alias name="" field="COD_IBGE" index="1"/>
-        <alias name="" field="Nome" index="2"/>
-        <alias name="" field="RG_PLAN" index="3"/>
-        <alias name="" field="COD_MESO" index="4"/>
-        <alias name="" field="MESO_IBGE" index="5"/>
-        <alias name="" field="COD_MICRO" index="6"/>
-        <alias name="" field="MICRO_IBGE" index="7"/>
-        <alias name="" field="CODIBGE" index="8"/>
-        <alias name="" field="BOUNDS" index="9"/>
+        <alias field="Id" index="0" name=""/>
+        <alias field="COD_IBGE" index="1" name=""/>
+        <alias field="Nome" index="2" name=""/>
+        <alias field="RG_PLAN" index="3" name=""/>
+        <alias field="COD_MESO" index="4" name=""/>
+        <alias field="MESO_IBGE" index="5" name=""/>
+        <alias field="COD_MICRO" index="6" name=""/>
+        <alias field="MICRO_IBGE" index="7" name=""/>
+        <alias field="CODIBGE" index="8" name=""/>
+        <alias field="BOUNDS" index="9" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="Id"/>
-        <default applyOnUpdate="0" expression="" field="COD_IBGE"/>
-        <default applyOnUpdate="0" expression="" field="Nome"/>
-        <default applyOnUpdate="0" expression="" field="RG_PLAN"/>
-        <default applyOnUpdate="0" expression="" field="COD_MESO"/>
-        <default applyOnUpdate="0" expression="" field="MESO_IBGE"/>
-        <default applyOnUpdate="0" expression="" field="COD_MICRO"/>
-        <default applyOnUpdate="0" expression="" field="MICRO_IBGE"/>
-        <default applyOnUpdate="0" expression="" field="CODIBGE"/>
-        <default applyOnUpdate="0" expression="" field="BOUNDS"/>
+        <default field="Id" applyOnUpdate="0" expression=""/>
+        <default field="COD_IBGE" applyOnUpdate="0" expression=""/>
+        <default field="Nome" applyOnUpdate="0" expression=""/>
+        <default field="RG_PLAN" applyOnUpdate="0" expression=""/>
+        <default field="COD_MESO" applyOnUpdate="0" expression=""/>
+        <default field="MESO_IBGE" applyOnUpdate="0" expression=""/>
+        <default field="COD_MICRO" applyOnUpdate="0" expression=""/>
+        <default field="MICRO_IBGE" applyOnUpdate="0" expression=""/>
+        <default field="CODIBGE" applyOnUpdate="0" expression=""/>
+        <default field="BOUNDS" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="Id" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="COD_IBGE" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="Nome" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="RG_PLAN" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="COD_MESO" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="MESO_IBGE" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="COD_MICRO" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="MICRO_IBGE" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="CODIBGE" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="BOUNDS" notnull_strength="0" exp_strength="0"/>
+        <constraint field="Id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="COD_IBGE" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="Nome" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="RG_PLAN" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="COD_MESO" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="MESO_IBGE" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="COD_MICRO" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="MICRO_IBGE" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="CODIBGE" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="BOUNDS" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="Id" exp="" desc=""/>
@@ -644,7 +646,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -664,7 +666,7 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-73.99907880608145661</xmin>
         <ymin>-33.75045833441795651</ymin>
@@ -728,10 +730,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="232,113,141,255"/>
               <prop k="joinstyle" v="bevel"/>
@@ -745,9 +747,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -760,7 +762,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -853,48 +855,48 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="OBJECTID" index="0"/>
-        <alias name="" field="cod_md" index="1"/>
-        <alias name="" field="geometria_" index="2"/>
-        <alias name="" field="nm_nng" index="3"/>
-        <alias name="" field="cod_UF" index="4"/>
-        <alias name="" field="UF" index="5"/>
-        <alias name="" field="data_alter" index="6"/>
-        <alias name="" field="metodo_alt" index="7"/>
-        <alias name="" field="fonte_info" index="8"/>
-        <alias name="" field="PK" index="9"/>
-        <alias name="" field="SHAPE_Leng" index="10"/>
-        <alias name="" field="SHAPE_Area" index="11"/>
+        <alias field="OBJECTID" index="0" name=""/>
+        <alias field="cod_md" index="1" name=""/>
+        <alias field="geometria_" index="2" name=""/>
+        <alias field="nm_nng" index="3" name=""/>
+        <alias field="cod_UF" index="4" name=""/>
+        <alias field="UF" index="5" name=""/>
+        <alias field="data_alter" index="6" name=""/>
+        <alias field="metodo_alt" index="7" name=""/>
+        <alias field="fonte_info" index="8" name=""/>
+        <alias field="PK" index="9" name=""/>
+        <alias field="SHAPE_Leng" index="10" name=""/>
+        <alias field="SHAPE_Area" index="11" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="OBJECTID"/>
-        <default applyOnUpdate="0" expression="" field="cod_md"/>
-        <default applyOnUpdate="0" expression="" field="geometria_"/>
-        <default applyOnUpdate="0" expression="" field="nm_nng"/>
-        <default applyOnUpdate="0" expression="" field="cod_UF"/>
-        <default applyOnUpdate="0" expression="" field="UF"/>
-        <default applyOnUpdate="0" expression="" field="data_alter"/>
-        <default applyOnUpdate="0" expression="" field="metodo_alt"/>
-        <default applyOnUpdate="0" expression="" field="fonte_info"/>
-        <default applyOnUpdate="0" expression="" field="PK"/>
-        <default applyOnUpdate="0" expression="" field="SHAPE_Leng"/>
-        <default applyOnUpdate="0" expression="" field="SHAPE_Area"/>
+        <default field="OBJECTID" applyOnUpdate="0" expression=""/>
+        <default field="cod_md" applyOnUpdate="0" expression=""/>
+        <default field="geometria_" applyOnUpdate="0" expression=""/>
+        <default field="nm_nng" applyOnUpdate="0" expression=""/>
+        <default field="cod_UF" applyOnUpdate="0" expression=""/>
+        <default field="UF" applyOnUpdate="0" expression=""/>
+        <default field="data_alter" applyOnUpdate="0" expression=""/>
+        <default field="metodo_alt" applyOnUpdate="0" expression=""/>
+        <default field="fonte_info" applyOnUpdate="0" expression=""/>
+        <default field="PK" applyOnUpdate="0" expression=""/>
+        <default field="SHAPE_Leng" applyOnUpdate="0" expression=""/>
+        <default field="SHAPE_Area" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="OBJECTID" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="cod_md" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="geometria_" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="nm_nng" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="cod_UF" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="UF" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="data_alter" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="metodo_alt" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="fonte_info" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="PK" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SHAPE_Leng" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SHAPE_Area" notnull_strength="0" exp_strength="0"/>
+        <constraint field="OBJECTID" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="cod_md" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="geometria_" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="nm_nng" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="cod_UF" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="UF" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="data_alter" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="metodo_alt" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="fonte_info" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="PK" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SHAPE_Leng" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SHAPE_Area" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="OBJECTID" exp="" desc=""/>
@@ -914,7 +916,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -934,7 +936,7 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" minScale="1e+08" type="raster" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" type="raster" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" minScale="1e+08" autoRefreshTime="0">
       <extent>
         <xmin>-20037508.34278924390673637</xmin>
         <ymin>-20037508.34278925508260727</ymin>
@@ -986,7 +988,7 @@
       </resourceMetadata>
       <provider>wms</provider>
       <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList useSrcNoData="0" bandNo="1"/>
       </noData>
       <map-layer-style-manager current="padrão">
         <map-layer-style name="padrão"/>
@@ -1000,7 +1002,7 @@
         <property key="identify/format" value="Undefined"/>
       </customproperties>
       <pipe>
-        <rasterrenderer band="1" alphaBand="-1" opacity="1" type="singlebandcolordata">
+        <rasterrenderer band="1" type="singlebandcolordata" opacity="1" alphaBand="-1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -1012,12 +1014,12 @@
           </minMaxOrigin>
         </rasterrenderer>
         <brightnesscontrast brightness="-50" contrast="-30"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" saturation="-38" colorizeOn="0" colorizeGreen="128" colorizeStrength="100"/>
+        <huesaturation colorizeBlue="128" saturation="-38" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" colorizeOn="0"/>
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>10</blendMode>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Line" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Line" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-53.21229496130435166</xmin>
         <ymin>-19.42232638559750413</ymin>
@@ -1081,10 +1083,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
-            <layer enabled="1" pass="0" class="SimpleLine" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleLine" enabled="1" locked="0">
               <prop k="capstyle" v="square"/>
               <prop k="customdash" v="5;2"/>
               <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -1103,9 +1105,9 @@
               <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -1118,7 +1120,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -1225,54 +1227,54 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="SPRPERIMET" index="0"/>
-        <alias name="" field="SPRROTULO" index="1"/>
-        <alias name="" field="SPRNOME" index="2"/>
-        <alias name="" field="Id1" index="3"/>
-        <alias name="" field="SRE" index="4"/>
-        <alias name="" field="INICIO" index="5"/>
-        <alias name="" field="FINAL" index="6"/>
-        <alias name="" field="EXTENS�O" index="7"/>
-        <alias name="" field="RODOVIA" index="8"/>
-        <alias name="" field="SITUA��O" index="9"/>
-        <alias name="" field="FEDERAL_SU" index="10"/>
-        <alias name="" field="COINCIDE_1" index="11"/>
-        <alias name="" field="JURISDI��O" index="12"/>
-        <alias name="" field="RECURSO_CI" index="13"/>
+        <alias field="SPRPERIMET" index="0" name=""/>
+        <alias field="SPRROTULO" index="1" name=""/>
+        <alias field="SPRNOME" index="2" name=""/>
+        <alias field="Id1" index="3" name=""/>
+        <alias field="SRE" index="4" name=""/>
+        <alias field="INICIO" index="5" name=""/>
+        <alias field="FINAL" index="6" name=""/>
+        <alias field="EXTENS�O" index="7" name=""/>
+        <alias field="RODOVIA" index="8" name=""/>
+        <alias field="SITUA��O" index="9" name=""/>
+        <alias field="FEDERAL_SU" index="10" name=""/>
+        <alias field="COINCIDE_1" index="11" name=""/>
+        <alias field="JURISDI��O" index="12" name=""/>
+        <alias field="RECURSO_CI" index="13" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="SPRPERIMET"/>
-        <default applyOnUpdate="0" expression="" field="SPRROTULO"/>
-        <default applyOnUpdate="0" expression="" field="SPRNOME"/>
-        <default applyOnUpdate="0" expression="" field="Id1"/>
-        <default applyOnUpdate="0" expression="" field="SRE"/>
-        <default applyOnUpdate="0" expression="" field="INICIO"/>
-        <default applyOnUpdate="0" expression="" field="FINAL"/>
-        <default applyOnUpdate="0" expression="" field="EXTENS�O"/>
-        <default applyOnUpdate="0" expression="" field="RODOVIA"/>
-        <default applyOnUpdate="0" expression="" field="SITUA��O"/>
-        <default applyOnUpdate="0" expression="" field="FEDERAL_SU"/>
-        <default applyOnUpdate="0" expression="" field="COINCIDE_1"/>
-        <default applyOnUpdate="0" expression="" field="JURISDI��O"/>
-        <default applyOnUpdate="0" expression="" field="RECURSO_CI"/>
+        <default field="SPRPERIMET" applyOnUpdate="0" expression=""/>
+        <default field="SPRROTULO" applyOnUpdate="0" expression=""/>
+        <default field="SPRNOME" applyOnUpdate="0" expression=""/>
+        <default field="Id1" applyOnUpdate="0" expression=""/>
+        <default field="SRE" applyOnUpdate="0" expression=""/>
+        <default field="INICIO" applyOnUpdate="0" expression=""/>
+        <default field="FINAL" applyOnUpdate="0" expression=""/>
+        <default field="EXTENS�O" applyOnUpdate="0" expression=""/>
+        <default field="RODOVIA" applyOnUpdate="0" expression=""/>
+        <default field="SITUA��O" applyOnUpdate="0" expression=""/>
+        <default field="FEDERAL_SU" applyOnUpdate="0" expression=""/>
+        <default field="COINCIDE_1" applyOnUpdate="0" expression=""/>
+        <default field="JURISDI��O" applyOnUpdate="0" expression=""/>
+        <default field="RECURSO_CI" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="SPRPERIMET" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SPRROTULO" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SPRNOME" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="Id1" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SRE" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="INICIO" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="FINAL" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="EXTENS�O" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="RODOVIA" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SITUA��O" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="FEDERAL_SU" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="COINCIDE_1" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="JURISDI��O" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="RECURSO_CI" notnull_strength="0" exp_strength="0"/>
+        <constraint field="SPRPERIMET" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SPRROTULO" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SPRNOME" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="Id1" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SRE" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="INICIO" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="FINAL" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="EXTENS�O" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="RODOVIA" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SITUA��O" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="FEDERAL_SU" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="COINCIDE_1" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="JURISDI��O" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="RECURSO_CI" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="SPRPERIMET" exp="" desc=""/>
@@ -1294,7 +1296,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -1314,7 +1316,7 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-5499892.26343597378581762</xmin>
         <ymin>-1859107.85857665282674134</ymin>
@@ -1378,10 +1380,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="255,152,73,255"/>
               <prop k="joinstyle" v="bevel"/>
@@ -1395,9 +1397,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -1407,12 +1409,14 @@
         <sizescale/>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="&quot;id&quot;"/>
+        <property key="dualview/previewExpressions">
+          <value>"id"</value>
+        </property>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -1449,24 +1453,24 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="id" index="0"/>
-        <alias name="" field="OWNER" index="1"/>
-        <alias name="" field="WIDTH" index="2"/>
-        <alias name="" field="&#xa;DEPTH" index="3"/>
+        <alias field="id" index="0" name=""/>
+        <alias field="OWNER" index="1" name=""/>
+        <alias field="WIDTH" index="2" name=""/>
+        <alias field="&#xa;DEPTH" index="3" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="id"/>
-        <default applyOnUpdate="0" expression="" field="OWNER"/>
-        <default applyOnUpdate="0" expression="" field="WIDTH"/>
-        <default applyOnUpdate="0" expression="" field="&#xa;DEPTH"/>
+        <default field="id" applyOnUpdate="0" expression=""/>
+        <default field="OWNER" applyOnUpdate="0" expression=""/>
+        <default field="WIDTH" applyOnUpdate="0" expression=""/>
+        <default field="&#xa;DEPTH" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="id" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="OWNER" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="WIDTH" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="&#xa;DEPTH" notnull_strength="0" exp_strength="0"/>
+        <constraint field="id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="OWNER" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="WIDTH" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="&#xa;DEPTH" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="id" exp="" desc=""/>
@@ -1478,10 +1482,10 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
-          <column width="-1" hidden="0" name="id" type="field"/>
-          <column width="-1" hidden="1" type="actions"/>
+          <column type="field" hidden="0" name="id" width="-1"/>
+          <column type="actions" hidden="1" width="-1"/>
         </columns>
       </attributetableconfig>
       <conditionalstyles>
@@ -1501,7 +1505,7 @@
       <previewExpression>"id"</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer refreshOnNotifyEnabled="0" autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" minScale="1e+08" type="raster" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" type="raster" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" minScale="1e+08" autoRefreshTime="0">
       <extent>
         <xmin>-20037508.34278924390673637</xmin>
         <ymin>-20037508.34278925508260727</ymin>
@@ -1552,7 +1556,7 @@
       </resourceMetadata>
       <provider>wms</provider>
       <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList useSrcNoData="0" bandNo="1"/>
       </noData>
       <map-layer-style-manager current="padrão">
         <map-layer-style name="padrão"/>
@@ -1566,7 +1570,7 @@
         <property key="identify/format" value="Undefined"/>
       </customproperties>
       <pipe>
-        <rasterrenderer band="1" alphaBand="-1" opacity="1" type="singlebandcolordata">
+        <rasterrenderer band="1" type="singlebandcolordata" opacity="1" alphaBand="-1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -1578,12 +1582,12 @@
           </minMaxOrigin>
         </rasterrenderer>
         <brightnesscontrast brightness="0" contrast="0"/>
-        <huesaturation grayscaleMode="0" colorizeBlue="128" colorizeRed="255" saturation="0" colorizeOn="0" colorizeGreen="128" colorizeStrength="100"/>
+        <huesaturation colorizeBlue="128" saturation="0" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeRed="255" colorizeOn="0"/>
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Line" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Line" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-49.45080955602631434</xmin>
         <ymin>-16.49367704611955787</ymin>
@@ -1647,10 +1651,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
-            <layer enabled="1" pass="0" class="SimpleLine" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleLine" enabled="1" locked="0">
               <prop k="capstyle" v="square"/>
               <prop k="customdash" v="3;2"/>
               <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -1669,9 +1673,9 @@
               <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -1684,7 +1688,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -1700,15 +1704,15 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="id" index="0"/>
+        <alias field="id" index="0" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="id"/>
+        <default field="id" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="id" notnull_strength="0" exp_strength="0"/>
+        <constraint field="id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="id" exp="" desc=""/>
@@ -1717,7 +1721,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -1737,7 +1741,7 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-5499874.58049803040921688</xmin>
         <ymin>-1859090.17324362462386489</ymin>
@@ -1801,10 +1805,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="255,228,19,255"/>
               <prop k="joinstyle" v="bevel"/>
@@ -1818,9 +1822,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -1830,12 +1834,14 @@
         <sizescale/>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions" value="&quot;id&quot;"/>
+        <property key="dualview/previewExpressions">
+          <value>"id"</value>
+        </property>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -1872,24 +1878,24 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="id" index="0"/>
-        <alias name="" field="OWNER" index="1"/>
-        <alias name="" field="&#xa;WIDTH" index="2"/>
-        <alias name="" field="&#xa;DEPTH" index="3"/>
+        <alias field="id" index="0" name=""/>
+        <alias field="OWNER" index="1" name=""/>
+        <alias field="&#xa;WIDTH" index="2" name=""/>
+        <alias field="&#xa;DEPTH" index="3" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="id"/>
-        <default applyOnUpdate="0" expression="" field="OWNER"/>
-        <default applyOnUpdate="0" expression="" field="&#xa;WIDTH"/>
-        <default applyOnUpdate="0" expression="" field="&#xa;DEPTH"/>
+        <default field="id" applyOnUpdate="0" expression=""/>
+        <default field="OWNER" applyOnUpdate="0" expression=""/>
+        <default field="&#xa;WIDTH" applyOnUpdate="0" expression=""/>
+        <default field="&#xa;DEPTH" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="id" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="OWNER" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="&#xa;WIDTH" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="&#xa;DEPTH" notnull_strength="0" exp_strength="0"/>
+        <constraint field="id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="OWNER" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="&#xa;WIDTH" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="&#xa;DEPTH" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="id" exp="" desc=""/>
@@ -1901,12 +1907,12 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="1" sortExpression="&quot;DIMENSIONS&quot;" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;DIMENSIONS&quot;" sortOrder="1">
         <columns>
-          <column width="-1" hidden="0" name="id" type="field"/>
-          <column width="-1" hidden="1" type="actions"/>
-          <column width="-1" hidden="0" name="OWNER" type="field"/>
-          <column width="-1" hidden="0" name="DIMENSIONS" type="field"/>
+          <column type="field" hidden="0" name="id" width="-1"/>
+          <column type="actions" hidden="1" width="-1"/>
+          <column type="field" hidden="0" name="OWNER" width="-1"/>
+          <column type="field" hidden="0" name="DIMENSIONS" width="-1"/>
         </columns>
       </attributetableconfig>
       <conditionalstyles>
@@ -1926,7 +1932,7 @@
       <previewExpression>"id"</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Line" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Line" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-53.24441909790039063</xmin>
         <ymin>-19.50627899169921875</ymin>
@@ -1990,10 +1996,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
-            <layer enabled="1" pass="0" class="SimpleLine" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleLine" enabled="1" locked="0">
               <prop k="capstyle" v="square"/>
               <prop k="customdash" v="5;2"/>
               <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -2012,9 +2018,9 @@
               <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -2027,7 +2033,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -2078,30 +2084,30 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="CURSO" index="0"/>
-        <alias name="" field="EXTEN_M" index="1"/>
-        <alias name="" field="EXTEN_KM" index="2"/>
-        <alias name="" field="DOMINIO" index="3"/>
-        <alias name="" field="ESTADO" index="4"/>
-        <alias name="" field="DREN_ACEN" index="5"/>
+        <alias field="CURSO" index="0" name=""/>
+        <alias field="EXTEN_M" index="1" name=""/>
+        <alias field="EXTEN_KM" index="2" name=""/>
+        <alias field="DOMINIO" index="3" name=""/>
+        <alias field="ESTADO" index="4" name=""/>
+        <alias field="DREN_ACEN" index="5" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="CURSO"/>
-        <default applyOnUpdate="0" expression="" field="EXTEN_M"/>
-        <default applyOnUpdate="0" expression="" field="EXTEN_KM"/>
-        <default applyOnUpdate="0" expression="" field="DOMINIO"/>
-        <default applyOnUpdate="0" expression="" field="ESTADO"/>
-        <default applyOnUpdate="0" expression="" field="DREN_ACEN"/>
+        <default field="CURSO" applyOnUpdate="0" expression=""/>
+        <default field="EXTEN_M" applyOnUpdate="0" expression=""/>
+        <default field="EXTEN_KM" applyOnUpdate="0" expression=""/>
+        <default field="DOMINIO" applyOnUpdate="0" expression=""/>
+        <default field="ESTADO" applyOnUpdate="0" expression=""/>
+        <default field="DREN_ACEN" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="CURSO" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="EXTEN_M" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="EXTEN_KM" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="DOMINIO" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="ESTADO" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="DREN_ACEN" notnull_strength="0" exp_strength="0"/>
+        <constraint field="CURSO" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="EXTEN_M" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="EXTEN_KM" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="DOMINIO" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="ESTADO" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="DREN_ACEN" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="CURSO" exp="" desc=""/>
@@ -2115,7 +2121,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -2135,7 +2141,7 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Line" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Line" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-5501592.28467154409736395</xmin>
         <ymin>-1859194.71989052090793848</ymin>
@@ -2199,10 +2205,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="line">
-            <layer enabled="1" pass="0" class="SimpleLine" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleLine" enabled="1" locked="0">
               <prop k="capstyle" v="square"/>
               <prop k="customdash" v="5;2"/>
               <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -2221,9 +2227,9 @@
               <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -2236,7 +2242,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -2252,15 +2258,15 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="id" index="0"/>
+        <alias field="id" index="0" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="id"/>
+        <default field="id" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="id" notnull_strength="0" exp_strength="0"/>
+        <constraint field="id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="id" exp="" desc=""/>
@@ -2269,7 +2275,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -2289,7 +2295,7 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-5500488.75182482413947582</xmin>
         <ymin>-1849677.0923263281583786</ymin>
@@ -2353,10 +2359,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="255,255,255,128"/>
               <prop k="joinstyle" v="bevel"/>
@@ -2370,13 +2376,13 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
-            <layer enabled="1" pass="0" class="SimpleLine" locked="0">
+            <layer pass="0" class="SimpleLine" enabled="1" locked="0">
               <prop k="capstyle" v="square"/>
               <prop k="customdash" v="5;2"/>
               <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -2395,9 +2401,9 @@
               <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -2412,7 +2418,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -2449,24 +2455,24 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="id" index="0"/>
-        <alias name="" field="area_m" index="1"/>
-        <alias name="" field="area_km" index="2"/>
-        <alias name="" field="area_ha" index="3"/>
+        <alias field="id" index="0" name=""/>
+        <alias field="area_m" index="1" name=""/>
+        <alias field="area_km" index="2" name=""/>
+        <alias field="area_ha" index="3" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="id"/>
-        <default applyOnUpdate="0" expression="" field="area_m"/>
-        <default applyOnUpdate="0" expression="" field="area_km"/>
-        <default applyOnUpdate="0" expression="" field="area_ha"/>
+        <default field="id" applyOnUpdate="0" expression=""/>
+        <default field="area_m" applyOnUpdate="0" expression=""/>
+        <default field="area_km" applyOnUpdate="0" expression=""/>
+        <default field="area_ha" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="id" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="area_m" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="area_km" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="area_ha" notnull_strength="0" exp_strength="0"/>
+        <constraint field="id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="area_m" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="area_km" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="area_ha" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="id" exp="" desc=""/>
@@ -2478,13 +2484,13 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
-          <column width="-1" hidden="0" name="id" type="field"/>
-          <column width="-1" hidden="1" type="actions"/>
-          <column width="-1" hidden="0" name="area_m" type="field"/>
-          <column width="-1" hidden="0" name="area_km" type="field"/>
-          <column width="-1" hidden="0" name="area_ha" type="field"/>
+          <column type="field" hidden="0" name="id" width="-1"/>
+          <column type="actions" hidden="1" width="-1"/>
+          <column type="field" hidden="0" name="area_m" width="-1"/>
+          <column type="field" hidden="0" name="area_km" width="-1"/>
+          <column type="field" hidden="0" name="area_ha" width="-1"/>
         </columns>
       </attributetableconfig>
       <conditionalstyles>
@@ -2504,7 +2510,7 @@
       <previewExpression>"id"</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-49.41172801153549443</xmin>
         <ymin>-16.47481841171414629</ymin>
@@ -2568,10 +2574,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="0,0,0,120"/>
               <prop k="joinstyle" v="bevel"/>
@@ -2585,9 +2591,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -2597,14 +2603,12 @@
         <sizescale/>
       </renderer-v2>
       <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>"id"</value>
-        </property>
+        <property key="dualview/previewExpressions" value="&quot;id&quot;"/>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -2641,24 +2645,24 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="id" index="0"/>
-        <alias name="" field="area_m" index="1"/>
-        <alias name="" field="area_km" index="2"/>
-        <alias name="" field="area_ha" index="3"/>
+        <alias field="id" index="0" name=""/>
+        <alias field="area_m" index="1" name=""/>
+        <alias field="area_km" index="2" name=""/>
+        <alias field="area_ha" index="3" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="id"/>
-        <default applyOnUpdate="0" expression="" field="area_m"/>
-        <default applyOnUpdate="0" expression="" field="area_km"/>
-        <default applyOnUpdate="0" expression="" field="area_ha"/>
+        <default field="id" applyOnUpdate="0" expression=""/>
+        <default field="area_m" applyOnUpdate="0" expression=""/>
+        <default field="area_km" applyOnUpdate="0" expression=""/>
+        <default field="area_ha" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="id" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="area_m" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="area_km" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="area_ha" notnull_strength="0" exp_strength="0"/>
+        <constraint field="id" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="area_m" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="area_km" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="area_ha" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="id" exp="" desc=""/>
@@ -2670,13 +2674,13 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
-          <column width="-1" hidden="0" name="id" type="field"/>
-          <column width="-1" hidden="1" type="actions"/>
-          <column width="-1" hidden="0" name="area_m" type="field"/>
-          <column width="-1" hidden="0" name="area_km" type="field"/>
-          <column width="-1" hidden="0" name="area_ha" type="field"/>
+          <column type="field" hidden="0" name="id" width="-1"/>
+          <column type="actions" hidden="1" width="-1"/>
+          <column type="field" hidden="0" name="area_m" width="-1"/>
+          <column type="field" hidden="0" name="area_km" width="-1"/>
+          <column type="field" hidden="0" name="area_ha" width="-1"/>
         </columns>
       </attributetableconfig>
       <conditionalstyles>
@@ -2696,7 +2700,7 @@
       <previewExpression>"id"</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>656638.68018383311573416</xmin>
         <ymin>8134173.50422097742557526</ymin>
@@ -2760,10 +2764,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="243,166,178,255"/>
               <prop k="joinstyle" v="bevel"/>
@@ -2777,9 +2781,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -2792,7 +2796,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -2808,15 +2812,15 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Cidade" index="0"/>
+        <alias field="Cidade" index="0" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="Cidade"/>
+        <default field="Cidade" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="Cidade" notnull_strength="0" exp_strength="0"/>
+        <constraint field="Cidade" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="Cidade" exp="" desc=""/>
@@ -2825,7 +2829,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -2845,7 +2849,7 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyLocal="1" refreshOnNotifyEnabled="0" labelsEnabled="0" autoRefreshEnabled="0" simplifyMaxScale="1" autoRefreshTime="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" minScale="1e+08" simplifyDrawingHints="1" simplifyAlgorithm="0" readOnly="0" type="vector" geometry="Polygon" maxScale="0">
+    <maplayer autoRefreshEnabled="0" maxScale="0" simplifyDrawingTol="1" type="vector" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" simplifyLocal="1" refreshOnNotifyEnabled="0" geometry="Polygon" simplifyMaxScale="1" simplifyAlgorithm="0" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" minScale="1e+08" labelsEnabled="0" readOnly="0" autoRefreshTime="0">
       <extent>
         <xmin>-179.99999999999997158</xmin>
         <ymin>-89.90051099825100778</ymin>
@@ -2909,10 +2913,10 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" type="singleSymbol">
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol name="0" force_rhr="0" alpha="1" clip_to_extent="1" type="fill">
-            <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0" force_rhr="0">
+            <layer pass="0" class="SimpleFill" enabled="1" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="color" v="114,155,111,255"/>
               <prop k="joinstyle" v="bevel"/>
@@ -2926,9 +2930,9 @@
               <prop k="style" v="solid"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" type="QString" value=""/>
+                  <Option type="QString" value="" name="name"/>
                   <Option name="properties"/>
-                  <Option name="type" type="QString" value="collection"/>
+                  <Option type="QString" value="collection" name="type"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -2941,7 +2945,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
           <Option type="QString" value=""/>
         </activeChecks>
@@ -3048,54 +3052,54 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="FIPS_CNTRY" index="0"/>
-        <alias name="" field="GMI_CNTRY" index="1"/>
-        <alias name="" field="ISO_2DIGIT" index="2"/>
-        <alias name="" field="ISO_3DIGIT" index="3"/>
-        <alias name="" field="CNTRY_NAME" index="4"/>
-        <alias name="" field="LONG_NAME" index="5"/>
-        <alias name="" field="SOVEREIGN" index="6"/>
-        <alias name="" field="POP_CNTRY" index="7"/>
-        <alias name="" field="CURR_TYPE" index="8"/>
-        <alias name="" field="CURR_CODE" index="9"/>
-        <alias name="" field="LANDLOCKED" index="10"/>
-        <alias name="" field="SQKM" index="11"/>
-        <alias name="" field="SQMI" index="12"/>
-        <alias name="" field="COLOR_MAP" index="13"/>
+        <alias field="FIPS_CNTRY" index="0" name=""/>
+        <alias field="GMI_CNTRY" index="1" name=""/>
+        <alias field="ISO_2DIGIT" index="2" name=""/>
+        <alias field="ISO_3DIGIT" index="3" name=""/>
+        <alias field="CNTRY_NAME" index="4" name=""/>
+        <alias field="LONG_NAME" index="5" name=""/>
+        <alias field="SOVEREIGN" index="6" name=""/>
+        <alias field="POP_CNTRY" index="7" name=""/>
+        <alias field="CURR_TYPE" index="8" name=""/>
+        <alias field="CURR_CODE" index="9" name=""/>
+        <alias field="LANDLOCKED" index="10" name=""/>
+        <alias field="SQKM" index="11" name=""/>
+        <alias field="SQMI" index="12" name=""/>
+        <alias field="COLOR_MAP" index="13" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="FIPS_CNTRY"/>
-        <default applyOnUpdate="0" expression="" field="GMI_CNTRY"/>
-        <default applyOnUpdate="0" expression="" field="ISO_2DIGIT"/>
-        <default applyOnUpdate="0" expression="" field="ISO_3DIGIT"/>
-        <default applyOnUpdate="0" expression="" field="CNTRY_NAME"/>
-        <default applyOnUpdate="0" expression="" field="LONG_NAME"/>
-        <default applyOnUpdate="0" expression="" field="SOVEREIGN"/>
-        <default applyOnUpdate="0" expression="" field="POP_CNTRY"/>
-        <default applyOnUpdate="0" expression="" field="CURR_TYPE"/>
-        <default applyOnUpdate="0" expression="" field="CURR_CODE"/>
-        <default applyOnUpdate="0" expression="" field="LANDLOCKED"/>
-        <default applyOnUpdate="0" expression="" field="SQKM"/>
-        <default applyOnUpdate="0" expression="" field="SQMI"/>
-        <default applyOnUpdate="0" expression="" field="COLOR_MAP"/>
+        <default field="FIPS_CNTRY" applyOnUpdate="0" expression=""/>
+        <default field="GMI_CNTRY" applyOnUpdate="0" expression=""/>
+        <default field="ISO_2DIGIT" applyOnUpdate="0" expression=""/>
+        <default field="ISO_3DIGIT" applyOnUpdate="0" expression=""/>
+        <default field="CNTRY_NAME" applyOnUpdate="0" expression=""/>
+        <default field="LONG_NAME" applyOnUpdate="0" expression=""/>
+        <default field="SOVEREIGN" applyOnUpdate="0" expression=""/>
+        <default field="POP_CNTRY" applyOnUpdate="0" expression=""/>
+        <default field="CURR_TYPE" applyOnUpdate="0" expression=""/>
+        <default field="CURR_CODE" applyOnUpdate="0" expression=""/>
+        <default field="LANDLOCKED" applyOnUpdate="0" expression=""/>
+        <default field="SQKM" applyOnUpdate="0" expression=""/>
+        <default field="SQMI" applyOnUpdate="0" expression=""/>
+        <default field="COLOR_MAP" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
-        <constraint constraints="0" unique_strength="0" field="FIPS_CNTRY" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="GMI_CNTRY" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="ISO_2DIGIT" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="ISO_3DIGIT" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="CNTRY_NAME" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="LONG_NAME" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SOVEREIGN" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="POP_CNTRY" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="CURR_TYPE" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="CURR_CODE" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="LANDLOCKED" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SQKM" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="SQMI" notnull_strength="0" exp_strength="0"/>
-        <constraint constraints="0" unique_strength="0" field="COLOR_MAP" notnull_strength="0" exp_strength="0"/>
+        <constraint field="FIPS_CNTRY" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="GMI_CNTRY" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="ISO_2DIGIT" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="ISO_3DIGIT" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="CNTRY_NAME" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="LONG_NAME" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SOVEREIGN" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="POP_CNTRY" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="CURR_TYPE" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="CURR_CODE" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="LANDLOCKED" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SQKM" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="SQMI" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+        <constraint field="COLOR_MAP" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="FIPS_CNTRY" exp="" desc=""/>
@@ -3117,7 +3121,7 @@
       <attributeactions>
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -3156,62 +3160,17 @@
     <layer id="RESIDENTIAL_LOTS_a45281f4_6011_4583_92b5_b431de8232f0"/>
   </layerorder>
   <properties>
-    <WMTSPngLayers>
-      <Layer type="QStringList"/>
-      <Project type="bool">false</Project>
-      <Group type="QStringList"/>
-    </WMTSPngLayers>
-    <Macros>
-      <pythonCode type="QString"></pythonCode>
-    </Macros>
-    <WFSUrl type="QString"></WFSUrl>
-    <PAL>
-      <TextFormat type="int">0</TextFormat>
-      <CandidatesPolygon type="int">30</CandidatesPolygon>
-      <ShowingAllLabels type="bool">false</ShowingAllLabels>
-      <DrawRectOnly type="bool">false</DrawRectOnly>
-      <SearchMethod type="int">0</SearchMethod>
-      <CandidatesLine type="int">50</CandidatesLine>
-      <CandidatesPoint type="int">16</CandidatesPoint>
-      <ShowingCandidates type="bool">false</ShowingCandidates>
-      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
-    </PAL>
-    <SpatialRefSys>
-      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
-    </SpatialRefSys>
-    <WMSContactPhone type="QString"></WMSContactPhone>
-    <Measurement>
-      <DistanceUnits type="QString">meters</DistanceUnits>
-      <AreaUnits type="QString">m2</AreaUnits>
-    </Measurement>
-    <WMSSegmentizeFeatureInfoGeometry type="bool">false</WMSSegmentizeFeatureInfoGeometry>
-    <WMSContactPerson type="QString"></WMSContactPerson>
     <WFSTLayers>
+      <Insert type="QStringList"/>
       <Delete type="QStringList"/>
       <Update type="QStringList"/>
-      <Insert type="QStringList"/>
     </WFSTLayers>
-    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
-    <Legend>
-      <filterByMap type="bool">false</filterByMap>
-    </Legend>
-    <WMSUrl type="QString"></WMSUrl>
-    <DefaultStyles>
-      <Line type="QString">gray 4 line</Line>
-      <ColorRamp type="QString"></ColorRamp>
-      <Marker type="QString">dot  black</Marker>
-      <Fill type="QString">gray 2 fill</Fill>
-      <RandomColors type="bool">true</RandomColors>
-      <Opacity type="double">1</Opacity>
-    </DefaultStyles>
-    <PositionPrecision>
-      <Automatic type="bool">false</Automatic>
-      <DegreeFormat type="QString">D</DegreeFormat>
-      <DecimalPlaces type="int">2</DecimalPlaces>
-    </PositionPrecision>
-    <WMSRootName type="QString"></WMSRootName>
-    <WMSUseLayerIDs type="bool">false</WMSUseLayerIDs>
-    <WMSContactPosition type="QString"></WMSContactPosition>
+    <WMTSLayers>
+      <Group type="QStringList"/>
+      <Layer type="QStringList"/>
+      <Project type="bool">false</Project>
+    </WMTSLayers>
+    <WMSAccessConstraints type="QString">None</WMSAccessConstraints>
     <Palette>
       <Colors type="QStringList">
         <value>186,0,0,255</value>
@@ -3232,50 +3191,95 @@
         <value>#000000</value>
       </Labels>
     </Palette>
-    <WMSContactMail type="QString"></WMSContactMail>
-    <WMTSUrl type="QString"></WMTSUrl>
-    <WFSLayers type="QStringList"/>
-    <WMSOnlineResource type="QString"></WMSOnlineResource>
-    <WMSRequestDefinedDataSources type="bool">false</WMSRequestDefinedDataSources>
-    <WMSImageQuality type="int">90</WMSImageQuality>
-    <WMTSJpegLayers>
-      <Layer type="QStringList"/>
-      <Project type="bool">false</Project>
-      <Group type="QStringList"/>
-    </WMTSJpegLayers>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <DegreeFormat type="QString">D</DegreeFormat>
+      <Automatic type="bool">false</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+    <WMSUseLayerIDs type="bool">false</WMSUseLayerIDs>
     <WMSKeywordList type="QStringList">
       <value></value>
     </WMSKeywordList>
-    <WMSFees type="QString">conditions unknown</WMSFees>
-    <WCSLayers type="QStringList"/>
-    <Measure>
-      <Ellipsoid type="QString">WGS84</Ellipsoid>
-    </Measure>
-    <WMSContactOrganization type="QString"></WMSContactOrganization>
-    <WCSUrl type="QString"></WCSUrl>
-    <WMSServiceTitle type="QString"></WMSServiceTitle>
-    <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
-    <WMTSLayers>
+    <WMSUrl type="QString"></WMSUrl>
+    <WMSRootName type="QString"></WMSRootName>
+    <WMTSMinScale type="int">5000</WMTSMinScale>
+    <WMTSPngLayers>
+      <Group type="QStringList"/>
       <Layer type="QStringList"/>
       <Project type="bool">false</Project>
-      <Group type="QStringList"/>
-    </WMTSLayers>
+    </WMTSPngLayers>
     <Gui>
-      <SelectionColorAlphaPart type="int">106</SelectionColorAlphaPart>
       <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
-      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
       <SelectionColorBluePart type="int">0</SelectionColorBluePart>
-      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+      <SelectionColorAlphaPart type="int">106</SelectionColorAlphaPart>
       <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
       <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
     </Gui>
-    <WMSAccessConstraints type="QString">None</WMSAccessConstraints>
-    <WMSAddWktGeometry type="bool">false</WMSAddWktGeometry>
-    <WMSPrecision type="QString">8</WMSPrecision>
-    <WMTSMinScale type="int">5000</WMTSMinScale>
+    <WFSUrl type="QString"></WFSUrl>
+    <WMSServiceTitle type="QString"></WMSServiceTitle>
+    <WMSContactPhone type="QString"></WMSContactPhone>
+    <DefaultStyles>
+      <Line type="QString">gray 4 line</Line>
+      <Fill type="QString">gray 2 fill</Fill>
+      <ColorRamp type="QString"></ColorRamp>
+      <RandomColors type="bool">true</RandomColors>
+      <Marker type="QString">dot  black</Marker>
+      <Opacity type="double">1</Opacity>
+    </DefaultStyles>
+    <WCSLayers type="QStringList"/>
+    <PAL>
+      <ShowingAllLabels type="bool">false</ShowingAllLabels>
+      <DrawRectOnly type="bool">false</DrawRectOnly>
+      <ShowingCandidates type="bool">false</ShowingCandidates>
+      <SearchMethod type="int">0</SearchMethod>
+      <CandidatesPoint type="int">16</CandidatesPoint>
+      <CandidatesPolygon type="int">30</CandidatesPolygon>
+      <CandidatesLine type="int">50</CandidatesLine>
+      <TextFormat type="int">0</TextFormat>
+      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
+    </PAL>
+    <WMSOnlineResource type="QString"></WMSOnlineResource>
+    <WFSLayers type="QStringList"/>
+    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
+    <WMSContactPerson type="QString"></WMSContactPerson>
     <Paths>
       <Absolute type="bool">false</Absolute>
     </Paths>
+    <WMSContactMail type="QString"></WMSContactMail>
+    <WMSContactPosition type="QString"></WMSContactPosition>
+    <WMTSJpegLayers>
+      <Group type="QStringList"/>
+      <Layer type="QStringList"/>
+      <Project type="bool">false</Project>
+    </WMTSJpegLayers>
+    <Measure>
+      <Ellipsoid type="QString">WGS84</Ellipsoid>
+    </Measure>
+    <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
+    <Macros>
+      <pythonCode type="QString"></pythonCode>
+    </Macros>
+    <WMSRequestDefinedDataSources type="bool">false</WMSRequestDefinedDataSources>
+    <WMSFees type="QString">conditions unknown</WMSFees>
+    <WMTSUrl type="QString"></WMTSUrl>
+    <WCSUrl type="QString"></WCSUrl>
+    <WMSAddWktGeometry type="bool">false</WMSAddWktGeometry>
+    <Measurement>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+      <AreaUnits type="QString">m2</AreaUnits>
+    </Measurement>
+    <SpatialRefSys>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+    <WMSContactOrganization type="QString"></WMSContactOrganization>
+    <WMSSegmentizeFeatureInfoGeometry type="bool">false</WMSSegmentizeFeatureInfoGeometry>
+    <WMSPrecision type="QString">8</WMSPrecision>
+    <WMSImageQuality type="int">90</WMSImageQuality>
   </properties>
   <visibility-presets/>
   <transformContext/>
