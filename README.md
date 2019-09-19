@@ -1,6 +1,6 @@
 <h1 align = "center">
 <br>
-<a href="https://www.colaburbis.com.br/"> <img align = "center" src = "https://static.wixstatic.com/media/9f45d3_d15658ad88d3427792b7705489fb0e79~mv2_d_2200_2200_s_2.png/v1/fill /w_120,h_120,al_c,q_80,usm_0.66_1.00_0.01/logo-01.webp "/> </a>
+<a href="https://www.colaburbis.com.br/"> <img align = "center" height="200" src = "Assets/logo.png"/> </a>
 <br> coLABurbis
 </h1>
 <p align = "center"> An open-source urban project! </p>
@@ -31,7 +31,7 @@
   <li> Visit our guides and participate in the project on Github. </li>
 </ol>
 
-> ℹ️ ** Important **: You can also participate directly in this repository if you want!
+> ℹ️ <b>Important</b>: You can also participate directly in this repository if you want!
 
 <h3> License </h3>
 This project is licensed under the <b> GNU General Public License v3.0 </b>
