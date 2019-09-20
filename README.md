@@ -16,9 +16,9 @@
 > <a href="https://www.colaburbis.com.br/"> Click here to learn more! </a>
 
 <h3> About the project </h3>
-<p> coLAB urbis is a Course Completion Paper for the Faculty of Architecture and Urbanism of the University of Brasilia - UnB. From an organic view of Urbanism, that is, the city formed from the spontaneous logics of society, this paper aims to present a development strategy for an uninhabited area in the interior of Goiás, in the municipality of Goianira. The strategy is divided into two parts: the Collaborative Urban Design and the Collaborative Soil Management. </p>
+<p> coLAB urbis is a undergraduate thesis for the Faculty of Architecture and Urbanism of the University of Brasilia - UnB. From an organic view of Urbanism, witch is, the city formed from the spontaneous logics of society, this project thesis aims to present a development strategy, a model of urban occupation, for an uninhabited area in the interior of Goiás, in the municipality of Goianira. The strategy is divided into two parts: the Collaborative Urban Design and the Collaborative City Management. </p>
 
-<p> Who knows what this city will be like 15 years from now? Or 30 years from now ?! The city is a living organism that undergoes changes at all times. It is the result of several punctual and spontaneous actions of those who inhabit it… How would you resolve the issues within your lot so that the city as a whole would benefit? </p>
+<p> In its first phase the owners of the lots earn the lot by exercising some activity in it, be it a job, or housing, or even agriculture. In addition, the lots are self-sufficient, meaning that the lot owner needs to address the infrastructure issues (roads, waste disposal, sewage, drinking water and energy) within his lot. </p>
  
 <b> Created by <a href="https://github.com/sofiaveras/"> @sofiaveras </a> - <a href = "https://www.linkedin.com/in/sofia-veras- 703a31138 / "> Linkedin </a> </b>
 
