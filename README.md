@@ -13,7 +13,8 @@
 </ul>
 
 > <b> You can participate without knowing these tools! </b>
-> <a href="https://www.colaburbis.com.br/"> Click here to learn more! </a>
+> <a href="https://bit.ly/2m0sUVB"> Click here to earn a land lot! </a>
+> <a href="https://bit.ly/2ktHLXZ"> Click here to enter the team! </a>
 
 <h3> About the project </h3>
 <p> coLAB urbis is a undergraduate thesis for the Faculty of Architecture and Urbanism of the University of Brasilia - UnB. From an organic view of Urbanism, witch is, the city formed from the spontaneous logics of society, this project thesis aims to present a development strategy, a model of urban occupation, for an uninhabited area in the interior of Goiás, in the municipality of Goianira. The strategy is divided into two parts: the Collaborative Urban Design and the Collaborative City Management. </p>
