@@ -8,8 +8,8 @@
 <h3> Requirements: </h3>
 
 <ul>
-  <li> Github </li>
-  <li> QGIS </li>
+  <li> Github: https://www.colaburbis.com.br/comoajudar-github</li>
+  <li> QGIS: https://www.colaburbis.com.br/comoajudar-qgis </li>
 </ul>
 
 > <b> You can participate without knowing these tools! </b>
