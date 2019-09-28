@@ -17,9 +17,10 @@
 > <a href="https://bit.ly/2ktHLXZ"> Click here to enter the team! </a>
 
 <h3> About the project </h3>
-<p> coLAB urbis is a undergraduate thesis for the Faculty of Architecture and Urbanism of the University of Brasilia - UnB. From an organic view of Urbanism, witch is, the city formed from the spontaneous logics of society, this project thesis aims to present a development strategy, a model of urban occupation, for an uninhabited area in the interior of Goiás, in the municipality of Goianira. The strategy is divided into two parts: the Collaborative Urban Design and the Collaborative City Management. </p>
 
-<p> In its first phase the owners of the lots earn the lot by exercising some activity in it, be it a job, or housing, or even agriculture. In addition, the lots are self-sufficient, meaning that the lot owner needs to address the infrastructure issues (roads, waste disposal, sewage, drinking water and energy) within his lot. </p>
+<p> CoLAB urbis is a undergraduate thesis for the Faculty of Architecture and Urbanism of the University of Brasilia - UnB. From an organic view of Urbanism, which is, the city formed from the spontaneous logics of society, this project thesis aims to present a development strategy, a model of urban occupation, for an uninhabited area in the interior of Goias, in the municipality of Goianira. Goianira is 220 km away from Brasilia, the capital of Brazil. </p>
+
+<p> In its first phase the owner of the land lot (Initiators and Creators) earn it by developing some sort of work, such as business, housing or agriculture. In addition, the lots are self-sufficient, meaning that the lot's owner needs to solve the infrastructure issues (roads, waste disposal, sewage, drinking water and energy) within its lot. The Creators then will analyze the demands of lots and draw them in the city, forming the roads, blocks and neighborhoods.</p>
  
 <b> Created by <a href="https://github.com/sofiaveras/"> @sofiaveras </a> - <a href = "https://www.linkedin.com/in/sofia-veras- 703a31138 / "> Linkedin </a> </b>
 
